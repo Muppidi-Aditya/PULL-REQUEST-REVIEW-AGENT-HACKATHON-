@@ -243,8 +243,8 @@ MIT License – see [LICENSE](LICENSE)
 
 **[📦 Install PR Review Agent GitHub App](https://github.com/apps/pr-review-agent-hackathon)** *(Replace with your actual app URL)*
 
-**Backend URL**: https://pull-request-review-agent-hackathon.onrender.com
-**IMPLEMENTATION URL**: https://drive.google.com/file/d/1CZzMeknTmw7dK-ITrD3eMSSvnc4X16RO/view?usp=sharing
+- **Backend URL**: https://pull-request-review-agent-hackathon.onrender.com
+- **IMPLEMENTATION URL**: https://drive.google.com/file/d/1CZzMeknTmw7dK-ITrD3eMSSvnc4X16RO/view?usp=sharing
 ---
 
 ## 🤝 Contributing
