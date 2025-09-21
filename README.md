@@ -233,9 +233,6 @@ Every PR gets a comprehensive review including:
 - [ ] Add a web dashboard for PR analytics
 - [ ] Integrate with Slack/Teams notifications
 
-## 📄 License
-
-MIT License – see [LICENSE](LICENSE)
 
 ---
 
