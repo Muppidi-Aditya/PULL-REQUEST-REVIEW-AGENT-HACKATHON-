@@ -4,3 +4,4 @@ requests
 pyjwt
 google-generativeai
 python-dotenv
+cryptography
